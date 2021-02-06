@@ -3,7 +3,7 @@ const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
 // Generate markdown function
-const generateMarkdown = require("/Users/neekotang/Desktop/new2/generateMarkdown.js");
+const generateMarkdown = require("/Users/neekotang/Bootcamp/README-Generator/generateMarkdown.js");
 
 // Array of questions for user
 const questions = [
