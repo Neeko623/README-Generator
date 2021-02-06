@@ -20,7 +20,7 @@ Node
 Run npm init, Run npm install inquirer, Run node index.js to start the application. 
 
 ## Usage
-[![Watch the video](https://drive.google.com/file/d/1a-_NJ2WQHBTfDDuQhB3YMNakXVBv9Nz0/view?usp=sharing)
+![Watch the video](https://drive.google.com/file/d/1a-_NJ2WQHBTfDDuQhB3YMNakXVBv9Nz0/view?usp=sharing)
 
 ## Contributing
 Please visit my repo.
