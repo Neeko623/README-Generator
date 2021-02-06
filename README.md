@@ -1,9 +1,9 @@
 
 
-# AS
+# README GENERATOR
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40MIT-green)
 ## Description
-AS
+A command line application that allows user input from inquirer to generate a README.md.
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -17,23 +17,23 @@ AS
 Node 
 
 ## Installation
-AS 
+Run npm init, Run npm install inquirer, Run node index.js to start the application. 
 
 ## Usage
-AS
+n/a
 
 ## Contributing
-AS
+Please visit my repo.
 
 ## Tests
-AS
+NO TESTS
 
 ## Questions
-Contact email: AS
+Contact email: NEEKO_TVXQ@HOTMAIL.COM
 
-GitHub: [AS](https://github.com/AS)
+GitHub: [NEEKO623](https://github.com/NEEKO623)
 
-AS
+Please contact my email.
 
 ## License
 This project is licensed under the terms of the MIT license.
