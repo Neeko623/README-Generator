@@ -1,9 +1,9 @@
 
 
-# README GENERATOR
-![GitHub license](https://img.shields.io/badge/Made%20by-%40undefined-green)
+# AS
+![GitHub license](https://img.shields.io/badge/Made%20by-%40MIT-green)
 ## Description
-A command line application that allows user input from inquirer to generate a README.md.
+AS
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -17,23 +17,23 @@ A command line application that allows user input from inquirer to generate a RE
 Node 
 
 ## Installation
-Run npm init, Run npm install inquirer, Run node index.js to start the application. 
+AS 
 
 ## Usage
-
+AS
 
 ## Contributing
-Please visit my repo.
+AS
 
 ## Tests
-NO TEST
+AS
 
 ## Questions
-Contact email: NEEKO_TVXQ@HOTMAIL.COM
+Contact email: AS
 
-GitHub: [NEEKO623](https://github.com/NEEKO623)
+GitHub: [AS](https://github.com/AS)
 
-Please contact my email
+AS
 
 ## License
 This project is licensed under the terms of the MIT license.
