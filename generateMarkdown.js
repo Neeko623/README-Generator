@@ -1,8 +1,9 @@
-const badge = require('./licenseBadge');
+const licenseBadge = require('/Users/neekotang/Bootcamp/README-Generator/licenseBadge.js');
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `## ${data.title}
+  return `# ${data.title}
+  ${licenseBadge[data.license]}
 
 ## Description
 ${data.description}
